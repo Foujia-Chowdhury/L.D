@@ -1,0 +1,80 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #82ccdd;
+}
+.container{
+	
+	width: 90%;
+	margin: 0 auto;
+}
+
+.logo, .navbar, .header, .footer{
+	min-height: 100px;
+	background: #b71540;
+
+
+}
+.logo{
+	margin-top: 15px;
+}
+
+h1{
+	font-size: 25px;
+	margin: 0;
+	text-align: center;
+	padding-top: 30px;
+
+}
+.navbar{
+	margin: 15px 0;
+	min-height: 70px;
+
+}
+.navbar h2{
+    font-size: 25px;
+	text-align: center;
+	padding-top: 20px;
+}
+.header{
+	height: 300px;
+}
+.header h2{
+	padding-top: 130px;
+	text-align: center;
+	font-size: 30px;
+}
+.point{
+	overflow: hidden;
+	margin: 19px 0;
+
+}
+.side{
+    width: 38%;
+    float: left;
+    height: 500px;
+    background: #b71540;
+   
+}
+.body{
+    float: right;
+    width: 60%;
+    height: 500px;
+    background:  #b71540;
+
+}
+.side h2{
+      padding: 200px 0;
+      text-align: center;
+}
+.body h1{
+	text-align: center;
+	padding: 200px 0;
+}
+.footer h1{
+	font-size: 20px;
+	margin-bottom: 80px;
+
+	
+
+}
